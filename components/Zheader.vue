@@ -5,10 +5,10 @@
       <a class="navbar-brand py-5" href="/">
         <img
           v-if="this.$dir() == 'rtl'"
-          src="~/img/arlogo.svg"
+          src="~/assets/img/arlogo.svg"
           alt="Zahma O La"
         />
-        <img v-else src="~/img/zahmaolalogo.svg" alt="Zahma O La" />
+        <img v-else src="~/assets/img/zahmaolalogo.svg" alt="Zahma O La" />
       </a>
       <button
         class="navbar-toggler border-0"
