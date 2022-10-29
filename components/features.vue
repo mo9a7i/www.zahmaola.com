@@ -14,10 +14,10 @@
       >
         <div class="col mb-5">
           <div
-            class="card h-100 overflow-hidden text-white rounded-5 border-0"
-            style="background: #38b980"
+            class="card h-100 overflow-hidden text-white rounded-5 border-0 feature-card"
+            
           >
-            <div class="liner card-body" style="height: 412.66px">
+            <div class=" card-body feature-body" >
               <div
                 class="
                   content
@@ -53,10 +53,10 @@
 
         <div class="col mb-5">
           <div
-            class="card h-100 overflow-hidden text-white rounded-5 border-0"
-            style="background: #38b980"
+            class="card h-100 overflow-hidden text-white rounded-5 border-0 feature-card"
+          
           >
-            <div class="liner card-body">
+            <div class=" card-body feature-body ">
               <div
                 class="
                   content
@@ -95,10 +95,10 @@
 
         <div class="col mb-5">
           <div
-            class="card h-100 overflow-hidden text-white rounded-5 border-0"
-            style="background: #38b980"
+            class="card h-100 overflow-hidden text-white rounded-5 border-0 feature-card"
+         
           >
-            <div class="liner card-body">
+            <div class="card-body feature-body">
               <div
                 class="
                   content
@@ -136,10 +136,10 @@
 
         <div class="col mb-5">
           <div
-            class="card h-100 overflow-hidden text-white rounded-5 border-0"
-            style="background: #38b980"
+            class="card h-100 overflow-hidden text-white rounded-5 border-0 feature-card"
+            
           >
-            <div class="liner card-body">
+            <div class="card-body feature-body">
               <div
                 class="
                   content
@@ -179,11 +179,5 @@
 </template>
 
 <style >
-.liner:hover {
-  background: linear-gradient(
-    180deg,
-    #38b980 17.2%,
-    rgba(235, 224, 104, 0.9) 100%
-  );
-}
+
 </style>

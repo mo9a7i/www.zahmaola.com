@@ -1,6 +1,6 @@
 <template>
   <section id="download" class="text-center py-5">
-    <div style="box-shadow: 0px 4px 29px rgba(0, 0, 0, 0.09)">
+    <div class="download">
       <h1 class="fw-light pt-5">{{ $t("downloadtitle") }}</h1>
       <h1 class="fw-bold">{{ $t("downloadsubtitle") }}</h1>
       <ul class="list-inline py-5">
